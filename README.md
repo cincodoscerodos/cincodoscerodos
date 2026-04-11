@@ -5,7 +5,7 @@
 <h2 align="center">Hi there 👋</h2>
 <p align="center">Front-End Developer</p>
 <p align="center">
-  <a href="https://discord.com/users/91tr" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-91tr-773182?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/91tr" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Discord-91tr-773182?style=flat&logo=discord&logoColor=white" />
   </a>
 </p>
