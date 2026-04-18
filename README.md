@@ -4,8 +4,13 @@
 
 <h2 align="center">Hi there 👋</h2>
 <p align="center">Front-End Developer</p>
+
 <p align="center">
   <a href="https://discord.com/users/91tr" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Discord-91tr-773182?style=flat&logo=discord&logoColor=white" />
+  </a>
+  
+  <a href="https://fuckworks.xyz" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Website-fuckworks.xyz-ac4bbb?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 </p>
