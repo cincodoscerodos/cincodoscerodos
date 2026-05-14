@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ffffff,65:ffd1e3,100:ff8fbc&text=xanax&fontSize=58&fontColor=ff5ca8&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffffff,70:ffd6e5,100:ff9fc3&text=xanax&fontSize=54&fontColor=ff6b9d&animation=fadeIn&fontAlignY=38"
   />
 </p>
 
@@ -8,16 +8,20 @@
 
 ### Front-End Developer
 
-Designing modern interfaces, smooth experiences and clean web projects.
+Creating clean interfaces and modern web experiences.
 
 <br>
 
 <a href="https://discord.com/users/ahoracorren">
-  <img src="https://img.shields.io/badge/91TR-ffe5ef?style=for-the-badge&logo=discord&logoColor=ff5ca8&labelColor=ff5ca8&color=fff7fa"/>
+  <img
+    src="https://img.shields.io/badge/discord-91tr-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=ffe1ec&color=fdf2f7"
+  />
 </a>
 
 <a href="https://fuckworks.xyz">
-  <img src="https://img.shields.io/badge/FUCKWORKS.XYZ-ffe5ef?style=for-the-badge&logo=googlechrome&logoColor=ff5ca8&labelColor=ff5ca8&color=fff7fa"/>
+  <img
+    src="https://img.shields.io/badge/web-fuckworks.xyz-fdf2f7?style=flat-square&logo=icloud&logoColor=ff6b9d&labelColor=ffe1ec&color=fdf2f7"
+  />
 </a>
 
 </div>
@@ -26,27 +30,8 @@ Designing modern interfaces, smooth experiences and clean web projects.
 
 ```js
 const xanax = {
-  languages: [
-    "C++",
-    "JavaScript",
-    "HTML",
-    "CSS",
-    "Python",
-    "Lua",
-    "TypeScript"
-  ],
-
-  frameworks: [
-    "React",
-    "Node.js",
-    "Vue",
-    "Angular",
-    "Next.js",
-    "Tailwind CSS",
-    "Express"
-  ],
-
+  languages: ["C++", "JavaScript", "HTML", "CSS","Python","Lua","TypeScript"],
+  frameworks: ["React", "Node.js", "Vue", "Angular", "Next.js", "Tailwind CSS", "Express"],
   focus: "Front-End Development",
-
   status: "Building cool stuff 🍷"
 };
