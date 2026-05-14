@@ -1,6 +1,7 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffffff,70:fc98bc,100:ff3880&text=xanax&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:ffffff,70:fc98bc,100:ff3880&text=xanax&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38"
   />
 </p>
 
@@ -16,6 +17,7 @@
 </p>
 
 </div>
+
 
 ---
 
