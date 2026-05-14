@@ -20,7 +20,7 @@ Creating clean interfaces and modern web experiences.
 
 <a href="https://fuckworks.xyz">
   <img
-    src="https://img.shields.io/badge/web-fuckworks.xyz-fdf2f7?style=flat-square&logo=icloud&logoColor=ff6b9d&labelColor=ffe1ec&color=fdf2f7"
+    src="https://img.shields.io/badge/fuckworks.xyz-fdf2f7?style=flat-square&logo=icloud&logoColor=ff6b9d&labelColor=ffe1ec&color=fdf2f7"
   />
 </a>
 
