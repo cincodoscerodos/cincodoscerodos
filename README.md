@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="1010"
-    src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:ffffff,70:fc98bc,100:ff3880&text=xanax&fontSize=52&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffffff,70:fc98bc,100:ff3880&text=xanax&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
   />
 </p>
 
