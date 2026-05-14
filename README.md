@@ -28,3 +28,11 @@ const xanax = {
   focus: "Front-End Development",
   status: "Building cool stuff 🍷"
 };
+```
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ffffff,70:fc98bc,100:ff3880&animation=twinkling"
+  />
+</p>
