@@ -12,8 +12,8 @@
 <p>Creating clean interfaces and modern web experiences.</p>
 
 <p>
-  <a href="https://discord.com/users/ahoracorren"><img src="https://img.shields.io/badge/|ahoracorren-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=ffe1ec&color=fdf2f7" /></a>&nbsp;
-  <a href="https://fuckworks.xyz"><img src="https://img.shields.io/badge/|fuckworks.xyz-fdf2f7?style=flat-square&logo=icloud&logoColor=ff6b9d&labelColor=ffe1ec&color=fdf2f7" /></a>
+  <a href="https://discord.com/users/ahoracorren"><img src="https://img.shields.io/badge/| ahoracorren-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=ffe1ec&color=fdf2f7" /></a>&nbsp;
+  <a href="https://fuckworks.xyz"><img src="https://img.shields.io/badge/| fuckworks.xyz-fdf2f7?style=flat-square&logo=icloud&logoColor=ff6b9d&labelColor=ffe1ec&color=fdf2f7" /></a>
 </p>
 
 </div>
