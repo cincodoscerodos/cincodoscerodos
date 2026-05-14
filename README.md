@@ -21,7 +21,7 @@
 
 ---
 
-```bash
+```diff
 const xanax = {
   languages: ["C++", "JavaScript", "HTML", "CSS","Python","Lua","TypeScript"],
   frameworks: ["React", "Node.js", "Vue", "Angular", "Next.js", "Tailwind CSS", "Express"],
