@@ -14,7 +14,7 @@ Creating clean interfaces and modern web experiences.
 
 <a href="https://discord.com/users/ahoracorren">
   <img
-    src="https://img.shields.io/badge/discord-91tr-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=ffe1ec&color=fdf2f7"
+    src="https://img.shields.io/badge/ahoracorren-fdf2f7?style=flat-square&logo=discord&logoColor=ff6b9d&labelColor=ffe1ec&color=fdf2f7"
   />
 </a>
 
