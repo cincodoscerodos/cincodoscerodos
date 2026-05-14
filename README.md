@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<h3>Front-End Developer</h3>
+<h3>Front-End Developer 🍷</h3>
 
 <p>Creating clean interfaces and modern web experiences.</p>
 
